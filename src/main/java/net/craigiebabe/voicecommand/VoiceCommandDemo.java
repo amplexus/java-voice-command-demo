@@ -64,6 +64,7 @@ public class VoiceCommandDemo {
 	  System.out.println ("\t" + s);
       }
       VoiceCommandHelper.EnumCommand command = VoiceCommandHelper.identifyCommand(VoiceCommandDemo.class.getClassLoader().getResourceAsStream("trainer.bin"), new StringBuffer(response.getResponse()));
+      System.out.println("The command is: " + command);
     }
     catch (Exception ex) {
       // TODO Handle how to respond if Google cannot be contacted
