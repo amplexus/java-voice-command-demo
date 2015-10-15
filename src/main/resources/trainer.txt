@@ -1,0 +1,89 @@
+LEFT left left
+LEFT left turn left
+LEFT left go left
+LEFT left left left
+LEFT turn left
+LEFT turn to the left
+LEFT go left
+LEFT go to the left
+LEFT turn left please
+LEFT turn to the left please
+LEFT go left please
+LEFT go to the left please
+LEFT now turn left please
+LEFT now turn to the left please
+LEFT now go left please
+LEFT now go to the left please
+LEFT can you turn left
+LEFT can you turn to the left
+LEFT can you go left
+LEFT can you go to the left
+LEFT can you turn left please
+LEFT can you turn to the left please
+LEFT can you go left please
+LEFT can you go to the left please
+RIGHT right right
+RIGHT right turn right
+RIGHT right go right
+RIGHT right right right
+RIGHT turn right
+RIGHT turn to the right
+RIGHT go right
+RIGHT go to the right
+RIGHT turn right please
+RIGHT turn to the right please
+RIGHT go right please
+RIGHT go to the right please
+RIGHT now turn right please
+RIGHT now turn to the right please
+RIGHT now go right please
+RIGHT now go to the right please
+RIGHT can you turn right
+RIGHT can you turn to the right
+RIGHT can you go right
+RIGHT can you go to the right
+RIGHT can you turn right please
+RIGHT can you turn to the right please
+RIGHT can you go right please
+RIGHT can you go to the right please
+FORWARD forward
+FORWARD forward forward
+FORWARD forward forward forward
+FORWARD straight ahead
+FORWARD straight ahead straight ahead
+FORWARD go straight ahead
+FORWARD go forward
+FORWARD move straight ahead
+FORWARD move forward
+FORWARD forward please
+FORWARD forward forward please
+FORWARD forward forward forward please
+FORWARD straight ahead please
+FORWARD straight ahead straight ahead please
+FORWARD go straight ahead please
+FORWARD can you go forward please
+FORWARD can you move straight ahead please
+FORWARD can you move forward please
+FORWARD can you go forward please
+FORWARD can you go straight ahead please
+FORWARD can you go forward please
+FORWARD can you move straight ahead please
+FORWARD can you move forward please
+BACKWARD backward
+BACKWARD backward backward
+BACKWARD backward backward backward
+BACKWARD reverse
+BACKWARD reverse reverse
+BACKWARD reverse reverse reverse
+BACKWARD go backward
+BACKWARD move backward
+BACKWARD backward please
+BACKWARD backward backward please
+BACKWARD backward backward backward please
+BACKWARD backward please
+BACKWARD backward backward please
+BACKWARD go backward please
+BACKWARD can you go backward please
+BACKWARD can you move backward please
+BACKWARD can you go backward please
+BACKWARD can you move backward please
