@@ -10,5 +10,8 @@
 [ ! -d "$APACHENLP_HOME" ] && echo "You need to point \$APACHENLP_HOME at your install of Apache NLP - it can be downloaded from http://opennlp.apache.org/"
 [ ! -d "$APACHENLP_HOME" ] && exit 2
 
+[ ! -f ./target/classes/trainer.bin ] && echo "You need to build the ./target/classes/trainer.bin file by running ./trainnlp.sh"
+[ ! -f ./target/classes/trainer.bin ] && exit -2;
+
 # TEST: Categorises some input text using the model file
 echo "$1" | ${APACHENLP_HOME}/bin/opennlp Doccat ./target/classes/trainer.bin
